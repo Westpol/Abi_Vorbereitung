@@ -1,0 +1,4 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {I}Funktionen als mathematische Modelle}{2}{section.1}%
+\contentsline {subsection}{\numberline {I.1}I Notation Funktionen}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {II}Riemann-Integral}{2}{section.2}%
